@@ -19,3 +19,9 @@
 # 4 Scores and Rankings
 
 - Q: What are other "successful" scoring functions (in addition to BMI)?
+
+# 5 Statistical Analysis
+
+# 6 Visualizing Data
+
+- Takeaway: scatter plotting the underlying points is often more readable than box plot / error bars
